@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BleMagic</string>
+
+    <string name="scan">Scan</string>
+    <string name="paired">Paired</string>
+    <string name="ble_manager">Ble Manager</string>
+</resources>
