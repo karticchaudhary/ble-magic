@@ -3,7 +3,7 @@ package com.kartic.blemagic.sample.ui
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.kartic.blemagic.BluetoothPeripheral
+import com.kartic.ble_magic.BluetoothPeripheral
 import com.kartic.blemagic.sample.databinding.ItemBluetoothListBinding
 
 class BluetoothListRecyclerAdapter(private val listener: BluetoothListRecyclerAdapterClickListener? = null) :

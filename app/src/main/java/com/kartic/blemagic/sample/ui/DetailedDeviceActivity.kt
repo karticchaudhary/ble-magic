@@ -5,10 +5,10 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
-import com.kartic.blemagic.BleManager
-import com.kartic.blemagic.BluetoothPeripheral
-import com.kartic.blemagic.BluetoothPeripheralState
-import com.kartic.blemagic.BluetoothPeripheralStateListener
+import com.kartic.ble_magic.BleManager
+import com.kartic.ble_magic.BluetoothPeripheral
+import com.kartic.ble_magic.BluetoothPeripheralState
+import com.kartic.ble_magic.BluetoothPeripheralStateListener
 import com.kartic.blemagic.sample.databinding.ActivityDetailedDeviceBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

@@ -1,4 +1,4 @@
-package com.kartic.blemagic
+package com.kartic.ble_magic
 
 enum class BluetoothPeripheralState(val state: Int) {
 

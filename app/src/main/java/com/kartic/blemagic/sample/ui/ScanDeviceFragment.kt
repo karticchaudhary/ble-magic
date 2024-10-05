@@ -11,9 +11,9 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.kartic.blemagic.BleManager
-import com.kartic.blemagic.BluetoothPeripheral
-import com.kartic.blemagic.IScanCallBack
+import com.kartic.ble_magic.BleManager
+import com.kartic.ble_magic.BluetoothPeripheral
+import com.kartic.ble_magic.IScanCallBack
 import com.kartic.blemagic.sample.databinding.FragmentScanDeviceBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

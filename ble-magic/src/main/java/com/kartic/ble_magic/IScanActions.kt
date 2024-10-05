@@ -1,4 +1,4 @@
-package com.kartic.blemagic
+package com.kartic.ble_magic
 
 import androidx.annotation.NonNull
 

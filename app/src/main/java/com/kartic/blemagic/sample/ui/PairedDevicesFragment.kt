@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.kartic.blemagic.BleManager
+import com.kartic.ble_magic.BleManager
 import com.kartic.blemagic.sample.databinding.FragmentPairedDevicesBinding
 
 class PairedDevicesFragment : Fragment() {

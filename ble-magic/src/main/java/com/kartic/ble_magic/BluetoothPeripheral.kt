@@ -1,4 +1,4 @@
-package com.kartic.blemagic
+package com.kartic.ble_magic
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

@@ -2,7 +2,7 @@ package com.kartic.blemagic.sample.ui;
 
 import android.content.Context;
 
-import com.kartic.blemagic.BleManager;
+import com.kartic.ble_magic.BleManager;
 
 public class MyBleManager {
 
